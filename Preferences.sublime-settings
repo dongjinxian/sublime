@@ -1,0 +1,13 @@
+{
+    // 主题
+    "theme": "Adaptive.sublime-theme",
+
+    // 代码提示线条
+    "rulers": [80],
+
+    // 显示tab和空格
+    "draw_white_space": "all",
+
+    // 自动取出行尾多余的空格
+    "trim_trailing_white_space_on_save": true
+}
